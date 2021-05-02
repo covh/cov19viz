@@ -16,6 +16,7 @@ Anything here is going to happen probably ONLY IF there is feedback, attention, 
     * because the latter has overlapping smoothing windows = so it UNDER-estimates the true Reff !
   * but first try out other variants, and study the differences in smaller districts  
 * current 7-days-incidence-versus-prevalence to cancel out the population completely --> that might be called "[transmission rate](https://www.google.com/search?ei=WGO6XvzIHsmZsAfs6JzACw&q=%22incidence+divided+by+prevalence%22+epidemiology)" ?
+* new measure: **suceptible incidence** or **susceptibility incidence** = divide by UNVACCINATED population, not by whole population = much better proxy of the dangers for the unprotected.
 
 
 ### existing columns - modifications / extensions
