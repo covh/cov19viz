@@ -4,6 +4,7 @@ total hours estimated:  ~115h = 11h + 6h + 11h + 10h + 5h + 13h + 6h + 4h + 5h +
 plus: + 2h +2h +2h + 1h + 1h + 1h +3h + 1h + 4h + 3h + 5h + 4h + 4h + 3h + 2h + 5h + 5h + 3h +2h + 5h + 6h +2h
 
 
+10/Jun/2021 05:00 yet another Risklayer input data flaw ... Last 4 days were suddenly not float anymore but int data ... Fixed by brutal casting :-) 
 02/May/2021 20:00 CSV file changed by Risklayer: column AGS renamed to ISO, mid April already, sorry. Also 'Haupt' sheet now not public anymore but authenticaed, switched download off completely, what a pity --> 21:15   
 05/Mar/2021 21:30 update failed thx Keyy for telling me, disk full & new ssl error, perhaps risklayer using https now? New Haupt sheet less source columns, fixed via QUELLEN_SPALTEN[v03]. Restarted everything. --> 01:00 
 ... some missing?
